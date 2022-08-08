@@ -5,6 +5,7 @@ Project made as part of the course [FULLSTACK PROGRAMISTA OD ZERA](https://goit.
 => [Project page](marektg.github.io/goit-markup-hw-04/)
 
 Technologies used:
+
 => HTML
 
 => CSS
